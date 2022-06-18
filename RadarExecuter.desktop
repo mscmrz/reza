@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Jahad Analyzer
+Comment=Jahad Passive Radar Console
+Exec=/home/vahid/Documents/Projects/Radar/Src/build-Radar-Desktop_Qt_5_13_2_GCC_64bit-Release/Radar
+Path=/home/vahid/Documents/Projects/Radar/Src/build-Radar-Desktop_Qt_5_13_2_GCC_64bit-Release
+Icon=/home/vahid/Documents/Projects/Radar/Src/Radar/material_design_dark/icons/Radar3.ico
+Terminal=false
+Type=Application
+Categories=Utility;Development;
